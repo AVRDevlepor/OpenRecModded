@@ -1,8 +1,8 @@
 [
     {
-        RoomId = 3UL,
+        RoomId = 3,
 	Name = "TestCreateRoom",
-	Description = "Take turns drawing, acting, and guessing funny phrases with your friends!", // note eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+	Description = "Take turns drawing, acting, and guessing funny phrases with your friends!",
 	CreatorPlayerId = 1984964,
 	ImageName = "ActivityCharades.png",
 	State = 0,
