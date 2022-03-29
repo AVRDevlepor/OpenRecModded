@@ -1,18 +1,18 @@
 [
     {
         	RoomId = 3UL,
-			Name = "TestCreateRoom",
-			Description = "Take turns drawing, acting, and guessing funny phrases with your friends!", // note eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-			CreatorPlayerId = 1984964,
-			ImageName = "ActivityCharades.png",
-            State = 0,
-			Accessibility = 1,
-			SupportsLevelVoting = false,
-						IsAGRoom = true,
-						CloningAllowed = true,
-						SupportsScreens = true,
-						SupportsTeleportVR = true,
-						SupportsWalkVR = true
+		Name = "TestCreateRoom",
+		Description = "Take turns drawing, acting, and guessing funny phrases with your friends!", // note eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+		CreatorPlayerId = 1984964,
+		ImageName = "ActivityCharades.png",
+            	State = 0,
+		Accessibility = 1,
+		SupportsLevelVoting = false,
+		IsAGRoom = true,
+		CloningAllowed = true,
+		SupportsScreens = true,
+		SupportsTeleportVR = true,
+		SupportsWalkVR = true
     },
     {
         "RoomId": 4,
